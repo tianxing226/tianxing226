@@ -39,7 +39,7 @@
   - 🐍 常用语言：Python
   - 🛠️ 喜欢编写实用型安全检测脚本
   - 📚 正在学习：渗透测试、代码审计、安全工具开发、CTF
-  - 🌐 个人站点：[www.tiax.pw](https://www.tiax.pw/)
+  - 🌐 个人站点：[tianapi.top](http://tianapi.top/)
 
   ---
 
