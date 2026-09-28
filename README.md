@@ -86,7 +86,7 @@
   ├──────────┼───────────────────────────────────────────────┤
   │ GitHub   │ @tianxing226 (https://github.com/tianxing226) │
   │ Website  │ tianapi.top (http://tianapi.top/)             │
-  │ Email    │ tianxing991@outlook.com                       │
+  │ Email    │ links@outlook.com                       │
   └──────────┴───────────────────────────────────────────────┘
   </div>
 
